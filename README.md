@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working Cloud and Devops projects
+With a passion for crafting resilient and scalable cloud solutions, I bring over 8 years of experience in driving digital innovation across diverse industries. As a seasoned Platform Engineer, I specialize in harnessing the power of Microsoft Azure and Terraform to architect robust cloud infrastructures. My expertise extends to Kubernetes orchestration, CI/CD pipeline implementation, and security best practices, ensuring seamless and secure deployments.
+
+Driven by a relentless pursuit of excellence, I thrive in dynamic environments where I can leverage cutting-edge technologies to solve complex challenges. Whether it's automating workflows, optimizing performance, or enhancing security postures, I am committed to delivering tangible results that propel organizations forward in their digital journey.
+
+Let's connect and explore how we can collaborate to unlock new possibilities and drive impactful change in the ever-evolving world of technology.
 
 
 ## 🌐 Socials:
